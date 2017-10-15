@@ -8,3 +8,4 @@ To stop: monitor.py --stop
 
 # Requirements
  * airmon-ng
+ * ifconfig
